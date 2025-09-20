@@ -7,14 +7,14 @@ The aim of this repo is to build a **well-structured reference** of problems –
 
 ## 📂 Folder Structure
 DSA-in-Java/
-├── Arrays/
-├── Searching/
-├── Sorting/
-├── Strings/
-├── Recursion/
-└── ...
-Each folder contains Java programs related to that topic.  
-File names are self-explanatory (e.g., `BinarySearchRecursive.java`).  
+- ├── Arrays/
+- ├── Searching/
+- ├── Sorting/
+- ├── Strings/
+- ├── Recursion/
+- └── ...
+- Each folder contains Java programs related to that topic.  
+- File names are self-explanatory (e.g., `BinarySearchRecursive.java`).  
 
 ---
 
@@ -41,24 +41,24 @@ File names are self-explanatory (e.g., `BinarySearchRecursive.java`).
    java Arrays.Palindrome
 
 ## 📊 Progress Tracker
-Arrays – 10+ problems
-Searching – 5+ problems
-Sorting – in progress
-Strings – in progress
-Recursion – upcoming
-Dynamic Programming – upcoming
+- Arrays – 10+ problems
+- Searching – 5+ problems
+- Sorting – in progress
+- Strings – in progress
+- Recursion – upcoming
+- Dynamic Programming – upcoming
 
 ## 🏆 Why This Repo?
-Organized topic-wise for easy navigation
-Well-commented Java solutions
-Covers problems from basic → advanced
-Continuously updated as part of my DSA learning journey
+- Organized topic-wise for easy navigation
+- Well-commented Java solutions
+- Covers problems from basic → advanced
+- Continuously updated as part of my DSA learning journey
 
 ## 🤝 Contribute
-If you have suggestions, optimizations, or additional problems to add, feel free to:
-Fork the repo
-Create a new branch
-Submit a pull request 🚀
+- If you have suggestions, optimizations, or additional problems to add, feel free to:
+- Fork the repo
+- Create a new branch
+- Submit a pull request 🚀
 
 ## 🔗 Connect with Me
 
