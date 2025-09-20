@@ -62,10 +62,7 @@ DSA-in-Java/
 
 ## 🔗 Connect with Me
 
-💼 LinkedIn
+<p align="left"> <a href="https://www.linkedin.com/in/arpitapatil01" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a> <a href="mailto:arpitapatil.work@email.com"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> </p>
 
-🌐 Portfolio
-
-📧 your-email@example.com
 
 ## ✨ This repository is part of my preparation for coding interviews and placements. The goal is to keep improving every day – one problem at a time!
