@@ -31,7 +31,7 @@ DSA-in-Java/
 ## 🚀 How to Run
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/DSA-in-Java.git
+   git clone https://github.com/Arpita01-work/DSA-in-Java.git
 2. Navigate into the folder
    ```bash
    cd DSA-in-Java
